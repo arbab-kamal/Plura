@@ -53,7 +53,7 @@ export const pricingCards = [
     duration: "month",
     highlight: "Everything in Starter, plus",
     features: ["Unlimited Sub accounts", "Unlimited Team members"],
-    priceId: "price_1Q6En4P0xnRygoCYqdKJNjz9",
+    priceId: "price_1QCdgoFDPJYPCgDL1E7qGGys",
   },
 ];
 
