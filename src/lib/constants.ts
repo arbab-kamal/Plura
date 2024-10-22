@@ -44,7 +44,7 @@ export const pricingCards = [
     duration: "month",
     highlight: "Key features",
     features: ["Rebilling", "24/7 Support team"],
-    priceId: "price_1Q6En4P0xnRygoCYtMm96ct0",
+    priceId: "price_1QCdfeFDPJYPCgDLL7m0xX2W",
   },
   {
     title: "Basic",
